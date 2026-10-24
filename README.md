@@ -30,6 +30,7 @@ KirnOS explores a capability-oriented kernel, portable hardware layers, a native
 - [Kirn website](https://kirn-lang.github.io/)
 - [Kirn documentation](https://rkriad585.github.io/kirn/)
 - [Pets contribution docs](https://pets-registry.github.io/pets)
+- [Kirsh terminal website](https://kirsh-shell.github.io/)
 
 ## Local development
 
